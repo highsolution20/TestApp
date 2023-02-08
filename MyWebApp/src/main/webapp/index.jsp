@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Register Form</h1>
+    <h1>This is a Registration Form for Alibaba</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
 
@@ -19,6 +19,6 @@
   </div>
 
   <div class="container signin">
-    <p>Already have an account? <a href="#">Sign in</a>.</p>
+    <p>Already have an account? <a href="https://www.alibaba.com/">Sign in</a>.</p>
   </div>
 </form>
