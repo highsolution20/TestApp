@@ -2,6 +2,7 @@
   <div class="container">
     <h1>This is a Registration Form for Alibaba</h1>
     <p>Please fill in this form to create an account.</p>
+    <p>Please rate our service</p>
     <hr>
 
     <label for="email"><b>Email</b></label>
@@ -14,7 +15,7 @@
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
 
-    <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
+    <p>By creating an account you agree to our <a href="https://www.capitalone.com">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
   </div>
 
